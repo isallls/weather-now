@@ -1,0 +1,111 @@
+{
+  "wilayah": [
+    {
+      "id": 1,
+      "nama": "Jakarta"
+    },
+    {
+      "id": 2,
+      "nama": "Bogor"
+    },
+    {
+      "id": 3,
+      "nama": "Depok"
+    },
+    {
+      "id": 4,
+      "nama": "Tangerang"
+    },
+    {
+      "id": 5,
+      "nama": "Bekasi"
+    },
+    {
+      "id": 5,
+      "nama": "Solo"
+    },
+    {
+      "id": 6,
+      "nama": "bALI"
+    },
+    {
+      "id": 7,
+      "nama": "Surabaya"
+    },
+    {
+      "id": 8,
+      "nama": "cirebon"
+    },
+    {
+      "id": 9,
+      "nama": "Medan"
+    },
+    {
+      "id": 10,
+      "nama": "semarang"
+    },
+    {
+      "id": 11,
+      "nama": "palembang"
+    },
+    {
+      "id": 12,
+      "nama": "malang"
+    }
+    ,
+    {
+      "id": 13,
+      "nama": "banten"
+    }
+    ,
+    {
+      "id": 14,
+      "nama": "Jambi"
+    }
+    ,
+    {
+      "id": 15,
+      "nama": "sukabumi"
+    }
+    ,
+    {
+      "id": 16,
+      "nama": "jayapura"
+    }
+    ,
+    {
+      "id": 17,
+      "nama": "pontianak"
+    }
+    ,
+    {
+      "id": 18,
+      "nama": "ambon"
+    }
+    ,
+    {
+      "id": 19,
+      "nama": "aceh"
+    }
+    ,
+    {
+      "id": 20,
+      "nama": "denpasar"
+    }
+    ,
+    {
+      "id": 21,
+      "nama": "palu"
+    }
+    ,
+    {
+      "id": 22,
+      "nama": "makassar"
+    }
+    ,
+    {
+      "id": 23,
+      "nama": "kendari"
+    }
+  ]
+}
