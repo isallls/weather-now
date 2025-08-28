@@ -3,8 +3,6 @@ import { useEffect, useState } from "react";
 import WeatherList from "./components/WeatherList";
 
 
-
-
 export default function home(){
     return (
         <>
